@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "254848619719",
+    "project_id": "moneymanagment-6fdf6",
+    "storage_bucket": "moneymanagment-6fdf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254848619719:android:788904fb84faf58ad11ae2",
+        "android_client_info": {
+          "package_name": "com.Rajnish.moneymanagment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254848619719-r3qeed7cauaglhp074jhuhlf31h7lair.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Rajnish.moneymanagment",
+            "certificate_hash": "4130ac40d16483b456f359308430b3d3e652ab9c"
+          }
+        },
+        {
+          "client_id": "254848619719-itnl7tsrq24gdc57vmuja7cv9ag4oala.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVWcv3CBapGEJ42nF8u2qZ3S_EYCPPF5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254848619719-itnl7tsrq24gdc57vmuja7cv9ag4oala.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
